@@ -1,0 +1,3 @@
+tests/test_*
+tests/generate_report.sh
+tests/*venv
